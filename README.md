@@ -1,6 +1,7 @@
 # Vue-Multipages-Seed
 
-> A Multi-Page Vue.js project for Mobile App
+> 🚀🚀🚀火星app移动端多页应用框架 
+> A multipages, mobile supported Vue.js project for Mas App
 
 ## Description
 
@@ -26,7 +27,7 @@
 * [x] 基于WeUI的公共插件toast、loading、modal模态框等，可手动修改和配置
 * [x] 封装的axios方法处理网络请求
 * [x] 基于模板文件，快速创建create新的独立应用的文件
-* [x] gulp相关进行静态资源上传cdn等处理
+<!-- * [x] gulp相关进行静态资源上传cdn等处理 -->
 * [x] 内置组件与插件Demo页面
 
 
